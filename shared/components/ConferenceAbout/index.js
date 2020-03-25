@@ -6,8 +6,8 @@ const ConferenceAbout = ({ isAfterConference }) => (
     <div className="content">
       {isAfterConference ? (
         <div>
-          <h2>The conference has finished now.</h2>
-          <p>Thanks for coming, we had a blast.</p>
+          <h2>Hi Red Badger QAs!</h2>
+          <p>This is a sandbox designed to work on the branch testing process.</p>
         </div>
       ) : (
         <div>
